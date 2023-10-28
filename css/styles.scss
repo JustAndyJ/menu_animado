@@ -94,7 +94,8 @@ body{
                
         }
     }
-    @media screen and (max-width: 300px) {
+}
+@media screen and (max-width: 380px) {
         body ul{
             display: flex;
             flex-direction: column;
@@ -103,4 +104,3 @@ body{
         }
     }
     
-}
